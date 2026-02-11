@@ -1,0 +1,9 @@
+=== Environment Information ===
+Distribution: Ubuntu 24.04.3 LTS
+Kernel Version: 6.17.0-14-generic
+Architecture: x86_64
+CPU Cores: 2
+Total Memory: 3.0Gi
+VM Software: VirtualBox
+Allocated CPUs: 2
+Allocated Memory: 4 GB
